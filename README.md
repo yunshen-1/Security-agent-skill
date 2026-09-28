@@ -1,3 +1,6 @@
+> **Note / 声明:** This repository is based on the open-source project OSSAfrica/skillguard ( https://github.com/OSSAfrica/skillguard , MIT License ). It is self-hosted and maintained by me for personal learning and defensive security tooling. Original copyright belongs to the upstream author(s).
+> 本仓库基于开源项目 OSSAfrica/skillguard（MIT 许可），由本人自建部署，用于个人学习与防御性安全工具的维护。原始版权归原作者所有。
+
 # SkillGuard
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/OSSAfrica/skillguard)](https://github.com/OSSAfrica/skillguard)
